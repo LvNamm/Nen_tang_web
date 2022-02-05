@@ -1,0 +1,85 @@
+.white-color{
+    color: #FFF;
+}
+.gray-color{
+    color: #879AAC;
+}
+.header{
+    display: flex;
+    background-color: #DC1588;
+    justify-content: space-between;
+    padding: 0 90px 0 90px;
+}
+.header .hotline{
+    display: flex;
+    align-items: flex-end;
+}
+.header .hotline h3{
+    color:yellow;
+    margin: auto 0 auto 10px;
+}
+.header .hotline p{
+    margin: auto 0 auto 0;
+    color: #FFF;
+}
+.fa-chevron-down{
+    
+    color: white;
+    margin-bottom: 5px;
+    margin-left: 5px;
+
+}
+.icon_HTDN{
+    height: 15px;
+    width: 15px;
+}
+.header .nav_bar1{
+    display: flex;
+}
+
+.header .nav_bar1 div{
+    margin: 8px 20px 8px 0;
+    align-items: center;
+}
+.header .nav_bar1 div p {
+    margin: 0;
+}
+/*header 2*/
+.header div{
+    display: flex;
+    margin: auto 0 auto 0;
+}
+.header div a{
+    margin: 0 20px 0 0;
+    cursor: pointer;
+    text-decoration: none;
+}
+/*main*/
+main{
+    margin-top: 20px;
+    padding: 0 !important;
+}
+
+main img{
+    padding: 0 !important;
+}
+
+/* Style for booking.html*/
+
+h1{
+    position: absolute;
+    left: 50%;
+    transform: translate(-50%,0);
+}
+table{
+    width: 700px !important;
+    position: absolute;
+    left: 50%;
+    top:20%;
+    transform: translate(-50%,0);
+
+}
+table tr :first-child{
+    width: 150px;
+}
+

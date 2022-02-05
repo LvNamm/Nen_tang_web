@@ -1,0 +1,1 @@
+Chọn các option sau đó đưa ra hình ảnh và thông tin theo theo các lựa chọn mà người dùng đã chọn (con người, người ngoài hành tinh, đang bị shock....).

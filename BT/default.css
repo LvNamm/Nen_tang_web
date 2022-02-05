@@ -1,0 +1,45 @@
+body{
+background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTa5JBOKOV4UhiGm-PbeBTFftu353zEzMKkQ&usqp=CAU);
+background-repeat: repeat;
+background-size: 100vw 100vh;
+}
+.container{
+    background-color:rgb(255, 255,255,0.5) ;
+}
+
+/*css for header*/
+header nav{
+    background-color: rgb(168, 250, 168);
+    border-radius: 4px;
+}
+header a{
+    text-decoration: none;
+    color: black;
+}
+header ul{
+    display: flex;
+    padding-left: 10px;
+}
+header ul li{
+    font-size: 16px;
+    list-style-type:none;
+    margin-left: 10px;
+}
+header ul li:hover{
+    background-color: chartreuse;
+}
+header h2 {
+    text-align: center;
+}
+header h1{
+    text-align: center;
+}
+/*css for main*/
+
+img{
+    height: 200px;
+    width: auto;
+}
+button :active{
+    border-color: blue;
+}
